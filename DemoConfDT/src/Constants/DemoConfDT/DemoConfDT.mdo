@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Constant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="be7a3e43-0961-4c88-ba8d-161db0719f24">
+  <producedTypes>
+    <managerType typeId="0b79a0fa-7931-4f9e-9126-0c2d25ddaeda" valueTypeId="ed7a90fe-9d4c-403b-bfb9-3297315a8335"/>
+    <valueManagerType typeId="93166ef5-5d4e-4b08-9012-4740875e5d1a" valueTypeId="a090f336-0496-4647-a993-176cd1d05d79"/>
+    <valueKeyType typeId="eede6aba-31bf-47b0-89d7-2c1dd1b4a0ae" valueTypeId="254b97d9-5b7d-451c-a54d-1db38e4b1908"/>
+  </producedTypes>
+  <name>DemoConfDT</name>
+  <synonym>
+    <key>ru</key>
+    <value>Demo conf DT</value>
+  </synonym>
+  <type>
+    <types>String</types>
+    <stringQualifiers>
+      <length>10</length>
+    </stringQualifiers>
+  </type>
+  <useStandardCommands>true</useStandardCommands>
+  <minValue xsi:type="core:UndefinedValue"/>
+  <maxValue xsi:type="core:UndefinedValue"/>
+  <dataLockControlMode>Managed</dataLockControlMode>
+</mdclass:Constant>
